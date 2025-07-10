@@ -1,0 +1,12 @@
+
+public class listt {
+    public class Node{
+        int data;
+        next Node;
+        
+    }
+    public static void main(String[] args) {
+        
+    }
+    
+}
