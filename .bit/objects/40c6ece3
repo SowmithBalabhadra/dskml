@@ -1,0 +1,15 @@
+tree:
+4299d13e ./.bit/HEAD
+4299d13e ./.bit/objects/4299d13e
+b75a3dd7 ./Functions_java/avg3.class
+355ff80 ./Functions_java/avg3.java
+e1465d03 ./Functions_java/findprime.class
+a06b4d9e ./Functions_java/findprime.java
+8ec75d42 ./Functions_java/primeinrange.java
+f2743170 ./Linked list/listt.java
+19801483 ./Patterns/halfpyr.java
+fa007f21 ./Patterns/halorect.class
+18f9ec2f ./Patterns/halorect.java
+dd7652f0 ./Patterns/star.java
+message: my commit
+time: 2025-07-10T08:24:15.216549100Z
